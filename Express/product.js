@@ -1,4 +1,4 @@
-const product = [
+const products = [
     {
         "id": 1,
         "name": "Laptop",
@@ -36,4 +36,4 @@ const product = [
     }
 ]
 
-module.exports = { product }
+module.exports = { products }
