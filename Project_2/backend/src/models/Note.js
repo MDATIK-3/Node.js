@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const noteSchema = new mongoose.Schema(
     {
         title: {
-            Type: String,
+            type: String,
             required: true
         },
         content: {
